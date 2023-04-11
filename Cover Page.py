@@ -4,7 +4,7 @@ import openai
 import json
 
 #API Imports
-API_KEY = "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"
+API_KEY = "Insert API Key Here"
 openai.api_key = API_KEY
 
 Name = input("What's your name?: ")
